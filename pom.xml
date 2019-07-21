@@ -8,11 +8,10 @@
         <version>2.1.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>fr.infogreffe.sample</groupId>
-    <artifactId>sample-app</artifactId>
+    <groupId>com.github.pcuisinaud</groupId>
+    <artifactId>oidc-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sample-app</name>
-    <description>Sample project for Spring Boot / Security / OAuth2 Client</description>
+    <description>Client project for Spring Boot / Security / OAuth2 Client</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
